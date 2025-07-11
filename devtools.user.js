@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.6
 // @description  Javascript console and DOM inspector/editor for mobile browsers
-// @author       @giuseppesec
+// @author       giuseppesec
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
